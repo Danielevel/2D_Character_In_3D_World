@@ -294,13 +294,8 @@ MonoBehaviour:
   TheCamera: {fileID: 0}
   billboard: {fileID: 2415694176833340520}
   useAnimator: 1
-  sprites:
-  - {fileID: 862529321, guid: 47d307b9e763c694db42c1b5981d2327, type: 3}
-  - {fileID: -1353400902, guid: 47d307b9e763c694db42c1b5981d2327, type: 3}
-  - {fileID: -1933281923, guid: 47d307b9e763c694db42c1b5981d2327, type: 3}
-  - {fileID: 1302640513, guid: 47d307b9e763c694db42c1b5981d2327, type: 3}
-  - {fileID: 1520041580, guid: 47d307b9e763c694db42c1b5981d2327, type: 3}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  use4Directions: 0
+  sprites: []
+  HiddenSprites8: []
+  HiddenSprites4: []
   useMirror: 1
